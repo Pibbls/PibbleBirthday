@@ -1,0 +1,9 @@
+# Saved birthdays (your server's data, not code)
+birthdays.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
